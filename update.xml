@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <!-- Версия должна быть выше, чем у текущей программы (в формате X.X.X.X) -->
-    <version>1.0.1.5</version>
+    <version>1.0.2.0</version>
     <!-- Прямая ссылка на ZIP-архив с новой версией -->
     <url>https://github.com/e1iot77OFFICIAL/Rc7/releases/download/Rc7/RC777.zip</url>
     <!-- Ссылка на список изменений (можно просто текстовый файл или страницу) -->
